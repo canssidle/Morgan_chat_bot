@@ -10,17 +10,18 @@ Follow these steps to set up the chatbot:
 
 ### Install Required Packages:
 
-pip install langchain, 
-pip install openai 
-pip install chromadb 
-pip install tiktoken 
-pip install unstructured 
-pip install flask
-pip install selenium
+- pip install langchain, 
+- pip install openai 
+- pip install chromadb 
+- pip install tiktoken 
+- pip install unstructured 
+- pip install flask
+- pip install selenium
 
 ## API Key Configuration:
 
 Obtain your OpenAI API key from OpenAI API Key Portal.
+
 Modify the constants.py file to include your OpenAI API key.
 
 ## Data Preparation:
@@ -32,19 +33,20 @@ Usage
 
 Start the Server:
 
-Run the chatgpt.py file.
-python chatgpt.py
+- Run the chatgpt.py file.
+
 This will start a local server.
 
 # Access the Chatbot:
 
 Open your web browser and navigate to localhost:5000.
+
 Interact with the chatbot by typing in your queries.
 
 ## Features
-Custom Database: Tailored to address specific queries from Morgan State University's computer science students.
-OpenAI Integration: Utilizes advanced AI models for accurate and context-aware responses.
-User-Friendly Interface: Simple and intuitive web interface for easy interaction.
+- Custom Database: Tailored to address specific queries from Morgan State University's computer science students.
+- OpenAI Integration: Utilizes advanced AI models for accurate and context-aware responses.
+- User-Friendly Interface: Simple and intuitive web interface for easy interaction.
 
 
 
