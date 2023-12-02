@@ -1,0 +1,64 @@
+User Input Assistant Reply How can students contact or meet with faculty members? You may get all the necessary information about Morgan State's Faculty and Staff here: https://www.morgan.edu/computer-science/faculty-and-staff Please email them with any questions you may have about Computer Science.
+Hi, tell me about the courses I need as a freshman as a computer science major
+Morgan State University suggest the following:
+ First Year (Semester One): 15 Credits
+ COSC 111 - Introduction to Computer Science I 4 credits IM*
+ ENGL 101 - Freshman Composition I 3 credits EC
+ MATH 241 - Calculus I 4 credits MQ*
+ XXXX - CT General Education Req. 3 credits CT
+ ORNS 106 - Freshman Orientation for Majors in the School of Computer, Mathematical and Natural Sciences 1 credits
+ First Year (Semester Two): 15 Credits
+ ENGL 102 - Freshman Composition II 3 credits EC
+ XXXX - HH General Education Req. 3 credits HH
+ XXXX - Phys. ED. Activity or FIN 101 or MIND 101 or DSVG 101 or FACS 102 1 credit
+ COSC 112 - Introduction to Computer Science II 4 credits
+ MATH 242 - Calculus II 4 credits
+Hi, tell me about the courses I need as a sophmore as a computer science major
+Morgan State University suggest the following:
+ Second Year (Semester One): 16 Credits
+ COSC 220 - Data Structures and Algorithms 4 credits
+ COSC 241 - Computer Systems and Digital Logic 3 credits
+ XXXX - AH General Education Req. 3 credits AH
+ XXXX - COSC Group A Elective 3 credits1
+ Second Year (Semester Two): 16 Credits
+ COSC 281 - Discrete Structure 3 credits
+ XXXX - COSC Group A Elective 3 credits1
+ XXXX - COSC Group A Elective 3 credits1
+ MATH 312 - Linear Algebra I 3 credits
+ XXXX - AH General Education Req. 3 credits AH
+Hi, tell me about the courses I need as a junior as a computer science major
+Morgan State University suggest the following:
+ Third Year (Semester One): 15 Credits
+ COSC 349 - Computer Networks 3 credits
+ COSC 351 - Cybersecurity 3 credits
+ COSC 352 - Organization of Programming Languages 3 credits
+ XXXX - COSC Group B Elective 3 credits2
+ XXXX - BP General Education Req. 4 credits (BP)
+ Third Year Semester Two): 16 Credits
+ COSC 354 - Operating Systems 3 credits
+ MATH 331 - Applied Probability and Statistics 3 credits
+ XXXX - COSC Group B Elective2
+ XXXX - CI General Education Req. 3 credits CI
+ XXXX - BP General Education Req. 3 credits no lab req. BP
+Hi, tell me about the courses I need as a senior as a computer science major
+Morgan State University suggest the following:
+ Fourth Year (Semester One): 15 Credits
+ COSC 458 - Software Engineering 3 credits
+ COSC 459 - Database Design 3 credits
+ COSC 490 - Senior Project 3 credits
+ XXXX - COSC Group C Elective 3 credits3
+ XXXX - SB General Education Req. 3 credits SB
+ Fourth Year (Semester Two): 12 Credits
+ XXXX - COSC Group C Elective 3 credits
+ XXXX - COSC Group C Elective 3 credits
+ XXXX - COSC Group C Elective 3 credits
+ XXXX - COSC Group D Elective 3 credits
+ XXXX - SB General Education Req. 3 credits SB Who is the head or chairperson of the Computer Science department? The department chair for Computer Science is Dr. Shuangbao (Paul) Wang
+Hi, how can I contact the head of Computer Science depatment?
+Here is how you can contact Dr,Shuangbao Wang who is the department chair for Computer Science: McMechen Hall Suite 507 Phone: (443) 885-4503 Fax: (443) 885-8213
+shuangbao.wang at morgan.edu
+Hi, how is the department organized in terms of administration?
+The Department of Computer Science at Morgan State University is led by Dr. Shuangbao "Paul" Wang, who serves as the Chair and Professor of Computer Science. Additionally, the department has an Associate Chair, Md Rahman, who is also an Associate Professor. The administrative team includes Wendy Smith, serving as an Administrative Assistant, and another administrative assistant, Ms. Grace Steele.
+Hi, what are the departmental policies regarding academic integrity?
+Faculty at Morgan State University make a concerted effort to promote honest academic conduct among
+students to ensure that their evaluation of students’ academic performance accurately reflects

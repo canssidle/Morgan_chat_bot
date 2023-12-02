@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morgan School Computer Science Bot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+<div id="chat-container">
+    <div id="chat-header">
+        <h1>Morgan School Computer Science Bot</h1>
+    </div>
+    <div id="chat-history"></div>
+    <input type="text" id="user-input" placeholder="Ask a question..." onkeydown="checkEnter(event)">
+    <button onclick="askQuestion()">Ask</button>
+</div>
+
+<script>
+function checkEnter(event) {
+    if (event.key === "Enter") {
+        askQuestion();
+    }
+}
+
+function askQuestion() {
+    var userInput = document.getElementById("user-input").value;
+
+    // Clear the input field immediately
+    document.getElementById("user-input").value = "";
+
+    addToChat("You", userInput, "user");
+
+    // Send the question to the server (Flask endpoint)
+    fetch(`/ask?question=${encodeURIComponent(userInput)}`)
+        .then(response => response.json())
+        .then(data => {
+            var botResponse = data.answer;
+            addToChat("Bot", botResponse, "bot");
+        });
+}
+
+function addToChat(sender, message, messageType) {
+    var chatHistory = document.getElementById("chat-history");
+    var chatBubble = document.createElement("div");
+
+    if (messageType === "user") {
+        chatBubble.classList.add("user-message");
+    } else if (messageType === "bot") {
+        chatBubble.classList.add("bot-message");
+    }
+
+    chatBubble.innerHTML = `<strong>${sender}:</strong> ${message}`;
+    chatHistory.appendChild(chatBubble);
+
+    // Scroll to the bottom of the chat history
+    chatHistory.scrollTop = chatHistory.scrollHeight;
+}
+</script>
+
+</body>
+</html>
