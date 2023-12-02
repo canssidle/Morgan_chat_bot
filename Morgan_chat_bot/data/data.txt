@@ -62,3 +62,95 @@ The Department of Computer Science at Morgan State University is led by Dr. Shua
 Hi, what are the departmental policies regarding academic integrity?
 Faculty at Morgan State University make a concerted effort to promote honest academic conduct among
 students to ensure that their evaluation of students’ academic performance accurately reflects
+Hi, are there any Computer Science clubs one can join?
+Yes, there is SACS, WICS and MSU Google Developers Student Clubs
+Hi, Are there any upcoming conferences or seminars in the department?
+Yes, there are upcoming computer Science events:                                   1.CodeBears Saturday Academy  to be held on Dec 2,2023 from 9am to 5pm. The tickets go for $20.          
+2.CodeBears Saturday Academy  to be held on Dec 9,2023 from 9am to 5pm. The tickets go for $20.                                                                The goal of this event   to introduce students to the exciting world of technology through hands-on activities and projects that inspire creativity, critical thinking, and problem-solving skills. Through this experience students will become excited about computer science, to later explore different career paths in this field! To participate in this program students do not need prior computer science experience. If you are interested in participating in this event, please complete this form in its entirety by 11:59pm on Oct 31, 2023.
+How can students get involved in extracurricular activities related to Computer Science?
+There are several clubs you can join that will equip you with new learnings and developing your skills in Computer Science. The activities in this clubs range from coding challenges, interview preps, networking and works shops. This clubs are:                                                                               1. SACS                                                                           2.WICS (Women in Computer Science)                                                3. MSU Google Developers Student Clubs
+Are there any coding competitions or hackathons organized by the department?
+Yes, there are hackathons organized by the department. Morgan TechFest is an all-day and first-of-its-kind technology event sponsored by Morgan State University's Computer Science Department.
+The goals of Morgan TechFest are to educate Morgan students on the impact of technology on their career path, to get them connected with tech organizations, and to strengthen ties between the Computer Science Department and technology industries.The line up includes jobs, mock Interview, networking and Tech Talk. Another major hackathon that the Computer Science takes part in is Morgan Hacks although Morgan Hacks is a student led hackaton organized by Morgan State Students.
+What are the contact details for the Computer Science department?
+The contact details for the computer science department are: 
+Chair: 
+1.Dr. Shuangbao (Paul) Wang McMechen Hall Suite 507 
+Phone: (443) 885-4503 
+Fax: (443) 885-8213 
+shuangbao.wang at morgan.edu 
+2.Administrative Assistant: 
+Ms. Wendy Smith 
+McMechen Hall Suite 507 
+Phone:(443) 885-3962 
+Fax: (443) 885-8213 
+compsci@morgan.edu 
+4.Administrative Assistant: 
+Ms. Grace Steele 
+McMechen 507 
+Phone: (443) 885-1053 
+Can you provide an overview of the Computer Science department?
+The Computer Science Program provides students with fundamental computer science knowledge and training and prepares them to apply their knowledge and training to produce solutions to specific problems. Students learn to define a problem clearly, determine its feasibility and choose an appropriate solution strategy. The solution strategy will study, specify, design, implement, test, modify, and document the solution. As part of the solution strategy, students will learn to evaluate alternative designs, perform risk analysis on alternative designs, and finally, communicate solutions to colleagues and other professionals. A key element to all of this is the ability of the student to work and collaborate within a team environment throughout the entire problem-solving process.
+How many faculty members are there in the Computer Science department?
+There are 17 faculty and staff members. 
+What is the mission or vision of the Computer Science department?
+Bachelor of Computer Science degree students learning outcomes: 
+Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions. 
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline. 
+Communicate effectively in a variety of professional contexts. 
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles. 
+Function effectively as a member or leader of a team engaged in activities appropriate to the program discipline. 
+Apply computer science theory and software development fundamentals to produce computing-based solutions. 
+Is there a departmental website for Computer Science?
+Yes, there is https://www.morgan.edu/scmns/computerscience 
+What labs and facilities does the Computer Science department have?
+The Computer Science Labs are centrally located on Morgan's Academic Quad in the School of Computer, Mathematical, and Natural Sciences. They provide technology resources, software, and support to students majoring in Computer Science. 
+
+Special features include: 
+
+- 3 computer labs, 63 workstations 
+- Wepa Print Kiosk in lobby 
+- One group study table for collaborative efforts 
+
+Location, Hours & Contact Info. 
+
+Calloway Hall 304, 312, 318 
+Wendy Smith, 443-885-4503 
+Mon - Fri: 8 a.m. - 10 p.m. 
+Sat - Sun: Closed 
+Are there any research centers or institutes associated with the department?
+Yes, Center for Equitable Artificial Intelligence and Machine Learning Systems, Cybersecurity Assurance & Policy Center 
+Can students access specialized software or tools for their coursework?
+The Division of Information Technology (DIT) offers Virtual Computer Labs (VCL) to all actively enrolled MSU students. The VCL environment is designed to provide remote access to specialized software (e.g., MS Office Suite, SAS, SPSS, Matlab, etc.) as though you are physically sitting in a campus computer lab without having to install anything on your computer. Follow these instructions, included in our Software Library, to access and navigate the VCL environment. 
+Are there internship opportunities provided by the department?
+Yes, the department has collaborations with Google, Facebook, JP Morgan Chase, NASA, NSA, Lockheed Martin, and many other public and private organizations to provide internships and other opportunities for students.
+What undergraduate programs does the Computer Science department offer?
+Morgan State's Computer Science department offers the following programs for undergraduates: 
+Bachelor of Science (BS) in Computer Science
+Bachelor of Science in Cloud Computing
+What graduate programs does the Computer Science department offer?
+Morgan State's Computer Science department offers the following programs for graduates: 
+Master of Science (MS) in Bioinfomatics
+Master of Science in Advanced Computing
+Ph.D. in Advance Computing. (Expected to launch in Spring 2024)
+Can you provide details about the Computer Science curriculum?
+To qualify for graduation, students must have satisfied:
+Computer Science Major Requirements
+General Education Requirements
+Earned six (6) credits in the Complementary Studies Program required for all majors in the School of Computer, Mathematical and Natural Sciences.
+Passed the Senior Departmental Comprehensive Examination
+Taken all of their junior and senior-level requirements in the major at Morgan State University (unless granted prior written permission by the Dean to take courses elsewhere)
+Earned a cumulative average of 2.0 or better and a major average of 2.0 or better, with no outstanding grades below “C” in the major (which includes all courses required for the major and required supporting courses).
+Are there any graduate programs available in Computer Science?
+Morgan State's Computer Science department offers the following programs for graduates: 
+Master of Science (MS) in Bioinfomatics
+Master of Science in Advanced Computing
+Ph.D. in Advance Computing. (Expected to launch in Spring 2024)
+What are the admission requirements for the Computer Science programs?
+To apply to morgan state, please go to https://www.morgan.edu/admissions/how-to-apply for more details 
+How can I apply for a Computer Science degree?
+You may get all the necessary information about applying to Morgan from the Office of Undergraduate Admission & Recruitment by going here: https://www.morgan.edu/undergradadmissions 
+Who are the current professors in the Computer Science department?
+You may get all the necessary information about Morgan State's Faculty and Staff here:    https://www.morgan.edu/computer-science/faculty-and-staff
+Are there teaching assistants available for Computer Science courses?
+All Computer Science students are required to do Senior Research or Teaching/Tutorial Assistantship under course COSC 499. If you're not a student, want something longer lasting, you may get all the necessary information about job postitions here: https://morgan.peopleadmin.com/postings/search
