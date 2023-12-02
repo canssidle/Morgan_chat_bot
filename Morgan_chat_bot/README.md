@@ -46,11 +46,7 @@ Custom Database: Tailored to address specific queries from Morgan State Universi
 OpenAI Integration: Utilizes advanced AI models for accurate and context-aware responses.
 User-Friendly Interface: Simple and intuitive web interface for easy interaction.
 
-# Screenshots
-Here, include screenshots demonstrating the setup process, the running chatbot interface, and examples of interactions with the chatbot.
 
-![How the program works](C:\Users\Mutho\Downloads\Morgan_chat_bot\Morgan_chat_bot\img\1.png)
-![How the program works](C:\Users\Mutho\Downloads\Morgan_chat_bot\Morgan_chat_bot\img\2.png)
 
 
 # Contributing
